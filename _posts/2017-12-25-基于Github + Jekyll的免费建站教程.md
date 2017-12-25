@@ -1,8 +1,6 @@
 ---
-layout: post
-title: 66666
-date: 2017-12-24 15:09:00
-description: yanglanlan
+title: 基于Github + Jekyll的免费建站教程
+updated: 2017-10-18 23:37
 ---
 
 # 基于Github + Jekyll的免费建站教程
